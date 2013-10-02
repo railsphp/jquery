@@ -1,0 +1,12 @@
+{
+    "name": "railsphp/jquery",
+    "description": "jQuery files for RailsPHP Framework",
+    "autoload": {
+        "psr-0": {
+            "Rails\\jQuery\\": "lib/Rails/jQuery/"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
