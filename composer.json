@@ -3,7 +3,7 @@
     "description": "jQuery files for RailsPHP Framework",
     "autoload": {
         "psr-0": {
-            "Rails\\jQuery\\": "lib/Rails/jQuery/"
+            "Rails\\jQuery\\": "lib/"
         }
     },
     "require": {
